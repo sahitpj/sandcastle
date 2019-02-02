@@ -1,0 +1,5 @@
+#systems files
+.DS_Store
+
+#python executables
+*.pyc
